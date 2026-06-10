@@ -1,25 +1,20 @@
-{                                                                                                                     
-    "version": 3,                                                                                                       
-    "updated_at": "2026-06-10",                                                                                         
-    "ads_enabled": true,                                                                                                
-    "environment": "production",                                                                                        
-                                                                                                                      
-    "banner_unit_id_ios": "ca-app-pub-3940256099942544/2934735716",                                                     
-    "banner_unit_id_android": "ca-app-pub-3940256099942544/6300978111",
-    "interstitial_unit_id_ios": "ca-app-pub-3940256099942544/4411468910",                                               
-    "interstitial_unit_id_android": "ca-app-pub-3940256099942544/1033173712",                                           
-    "native_unit_id_ios": "ca-app-pub-3940256099942544/3986624511",                                                   
-    "native_unit_id_android": "ca-app-pub-3940256099942544/2247696110",                                                 
-    "app_open_unit_id_ios": "ca-app-pub-3940256099942544/5575463023",
-    "app_open_unit_id_android": "ca-app-pub-3940256099942544/9257395921",                                               
-                                                                                                                        
-    "banner_enabled": true,                                                                                             
-    "interstitial_enabled": true,                                                                                       
-    "native_enabled": true,                                                                                             
-    "app_open_enabled": true,                                                                                           
-                                                                                                                        
-    "interstitial_min_gap_seconds": 90,                                                                               
-    "cold_start_grace_seconds": 30,                                                                                   
-    "app_open_min_gap_seconds": 240
-  }                                                                                                                     
-                                 
+  {
+      "version": 4,
+      "updated_at": "2026-06-10",
+      "ads_enabled": true,
+      "environment": "production",
+
+      "banner_unit_id_ios": "ca-app-pub-3940256099942544/2934735716",
+      "interstitial_unit_id_ios": "ca-app-pub-3940256099942544/4411468910",
+      "native_unit_id_ios": "ca-app-pub-3940256099942544/3986624511",
+      "app_open_unit_id_ios": "ca-app-pub-3940256099942544/5575463023",
+
+      "banner_enabled": true,
+      "interstitial_enabled": true,
+      "native_enabled": true,
+      "app_open_enabled": true,
+
+      "interstitial_min_gap_seconds": 60,
+      "cold_start_grace_seconds": 15,
+      "app_open_min_gap_seconds": 120
+  }
