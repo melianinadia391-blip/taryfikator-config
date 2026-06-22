@@ -1,20 +1,20 @@
-  {
-      "version": 4,
-      "updated_at": "2026-06-10",
-      "ads_enabled": true,
-      "environment": "production",
+{
+    "version": 5,
+    "updated_at": "2026-06-22",
+    "ads_enabled": true,
+    "environment": "production",
 
-      "banner_unit_id_ios": "ca-app-pub-3940256099942544/2934735716",
-      "interstitial_unit_id_ios": "ca-app-pub-3940256099942544/4411468910",
-      "native_unit_id_ios": "ca-app-pub-3940256099942544/3986624511",
-      "app_open_unit_id_ios": "ca-app-pub-3940256099942544/5575463023",
+    "banner_unit_id_ios": "ca-app-pub-3522262065158206/2700904277",
+    "interstitial_unit_id_ios": "ca-app-pub-3522262065158206/6940521867",
+    "native_unit_id_ios": "ca-app-pub-3522262065158206/1688195189",
+    "app_open_unit_id_ios": "ca-app-pub-3522262065158206/6693109855",
 
-      "banner_enabled": true,
-      "interstitial_enabled": true,
-      "native_enabled": true,
-      "app_open_enabled": true,
+    "banner_enabled": true,
+    "interstitial_enabled": true,
+    "native_enabled": true,
+    "app_open_enabled": true,
 
-      "interstitial_min_gap_seconds": 60,
-      "cold_start_grace_seconds": 15,
-      "app_open_min_gap_seconds": 120
-  }
+    "interstitial_min_gap_seconds": 60,
+    "cold_start_grace_seconds": 15,
+    "app_open_min_gap_seconds": 120
+}
