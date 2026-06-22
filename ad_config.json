@@ -1,13 +1,13 @@
 {
-    "version": 6,
+    "version": 7,
     "updated_at": "2026-06-22",
-    "ads_enabled": false,
-    "environment": "test",
+    "ads_enabled": true,
+    "environment": "production",
 
-    "banner_unit_id_ios": "ca-app-pub-3940256099942544/2934735716",
-    "interstitial_unit_id_ios": "ca-app-pub-3940256099942544/4411468910",
-    "native_unit_id_ios": "ca-app-pub-3940256099942544/3986624511",
-    "app_open_unit_id_ios": "ca-app-pub-3940256099942544/5575463023",
+    "banner_unit_id_ios": "ca-app-pub-3522262065158206/2700904277",
+    "interstitial_unit_id_ios": "ca-app-pub-3522262065158206/6940521867",
+    "native_unit_id_ios": "ca-app-pub-3522262065158206/1688195189",
+    "app_open_unit_id_ios": "ca-app-pub-3522262065158206/6693109855",
 
     "banner_enabled": true,
     "interstitial_enabled": true,
