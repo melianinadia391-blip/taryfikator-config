@@ -1,7 +1,7 @@
 {
     "version": 6,
     "updated_at": "2026-06-22",
-    "ads_enabled": true,
+    "ads_enabled": false,
     "environment": "test",
 
     "banner_unit_id_ios": "ca-app-pub-3940256099942544/2934735716",
